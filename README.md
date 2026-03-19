@@ -101,7 +101,7 @@ This ensures that private instances remain **inaccessible directly** from the in
 
 ![Project Screenshot](screenshots/step10-ssh-access.png)
 
-![Project Screenshot](screenshots/step9-NACL-subnet-association.png)
+![Project Screenshot](screenshots/step10-ssh-access-..png)
 
 **Step 11 :**
 
