@@ -23,7 +23,8 @@ This separation ensures proper **network isolation** between public and private 
 
 **Step 3 :**
 
-Attached an **Internet Gateway** to enable internet connectivity for the VPC.
+Created an **Internet Gateway (IGW)** and **attached** it to the VPC to enable internet connectivity. 
+This allows resources in the public subnet to **communicate** with the **internet**.
 
 ![Project Screenshot](screenshots/step3-internet-gateway.png)
 
