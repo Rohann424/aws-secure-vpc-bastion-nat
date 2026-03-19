@@ -4,7 +4,9 @@
 
 **Step 1 :**
 
-Created a **custom VPC** with **CIDR 10.0.0.0/16** to define an isolated cloud network.
+Created a custom **Virtual Private Cloud (VPC)** with **CIDR block 10.0.0.0/16** to define an isolated network environment. 
+
+This VPC acts as the foundation for **deploying** all cloud resources securely within a controlled IP range.
 
 ![Project Screenshot](screenshots/step1-vpc-creation.png)
 
