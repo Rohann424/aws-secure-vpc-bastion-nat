@@ -2,6 +2,10 @@
 
 **Project :- Secure VPC Architecture with Bastion Host and NAT Gateway**
 
+
+
+![Project Screenshot](screenshots/step2-subnets.png)
+
 **Step 1 :**
 
 Created a custom **Virtual Private Cloud (VPC)** with **CIDR block 10.0.0.0/16** to define an isolated network environment. 
