@@ -2,6 +2,8 @@
 
 **Project :- Secure VPC Architecture with Bastion Host and NAT Gateway**
 
+**A secure AWS network architecture where private servers are protected and accessed only through a controlled entry point.**
+
 **Architecture :**
 
 ![Project Screenshot](Architecture.png)
