@@ -6,19 +6,19 @@
 
 **Services Used :**
 
-Amazon VPC
-Subnets (Public & Private)
-EC2 (Bastion Host + Private Server)
-Internet Gateway (IGW)
-NAT Gateway
-Route Tables
-Security Groups
-Network ACL (NACL)
+- Amazon VPC
+- Subnets (Public & Private)
+- EC2 (Bastion Host + Private Server)
+- Internet Gateway (IGW)
+- NAT Gateway
+- Route Tables
+- Security Groups
+- Network ACL (NACL)
 
 **Real - World Application  :**
-Secure Server Access
-Secure Server Access
-Corporate Infrastructure
+- Secure Server Access
+- Secure Server Access
+- Corporate Infrastructure
 
 **Architecture :**
 
