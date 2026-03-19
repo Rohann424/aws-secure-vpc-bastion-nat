@@ -66,7 +66,7 @@ such as updates and package installations while remaining **inaccessible from ex
 
 **Step 8 :**
 
-![Project Screenshot](screenshots/step7-Elastic-IP-allocated.png)
+![Project Screenshot](screenshots/step8-private-route-table.png)
 
 
 
