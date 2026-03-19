@@ -45,6 +45,9 @@ Configured a Security Group to allow SSH (port 22) access only from my **local I
 
 **Step 6 :**
 
+Launched an EC2 instance in the **private subnet** **without assigning a public IP** to ensure it is not **directly accessible** from the **internet**. 
+Configured its Security Group to **allow SSH** access only from the **Bastion Host’s Security Group**, ensuring controlled and secure access.
+
 ![Project Screenshot](screenshots/step6-private-ec2.png)
 
 
