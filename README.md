@@ -37,7 +37,7 @@ Created a **route table** for the **public subnet** and added a route (0.0.0.0/0
 
 **Step 5 :**
 
-![Project Screenshot](screenshots/step3-internet-gateway.png)
+![Project Screenshot](screenshots/step5-bastion-instance.png)
 
 
 
