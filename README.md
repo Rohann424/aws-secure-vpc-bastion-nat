@@ -101,6 +101,22 @@ This ensures that private instances remain **inaccessible directly** from the in
 
 ![Project Screenshot](screenshots/step9-NACL-subnet-association.png)
 
+![Project Screenshot](screenshots/step9-NACL-subnet-association.png)
+
+**Step 11 :**
+
+Performed connectivity and security validation:
+
+- Verified that direct SSH access to the private EC2 from the local machine is blocked
+  
+- Confirmed successful SSH access to the private EC2 via the Bastion Host
+  
+- Tested outbound internet connectivity from the private EC2 using NAT Gateway (e.g., ping or package installation)
+
+These tests confirm that the architecture is secure and functioning as intended.
+
+![Project Screenshot](screenshots/step9-NACL-subnet-association.png)
+
 
 
 
