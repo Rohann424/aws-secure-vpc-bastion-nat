@@ -71,6 +71,19 @@ Associated this route table with the **private subnet** to allow secure outbound
 
 ![Project Screenshot](screenshots/step8-private-route-table.png)
 
+**Step 9 :**
+
+
+Configured **Security Groups** to enforce strict access control:
+
+- **Bastion Host**: Allowed SSH (port 22) access only from my local IP
+  
+- **Private EC2**: Allowed SSH access only from the Bastion Host’s Security Group
+
+Additionally, configured **Network ACLs (NACLs)** to allow necessary **inbound and outbound traffic** such as **SSH (port 22)** and **ICMP (ping)**, ensuring proper traffic flow while maintaining security.
+
+![Project Screenshot](screenshots/step8-private-route-table.png)
+
 
 
 
