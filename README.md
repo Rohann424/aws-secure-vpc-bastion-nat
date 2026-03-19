@@ -86,9 +86,9 @@ Additionally, configured **Network ACLs (NACLs)** to allow necessary **inbound a
 
 ![Project Screenshot](screenshots/step9-NACL-Inbound-configuration..png)
 
-**Onbound Configuartion : -**
+**Outbound Configuartion : -**
 
-![Project Screenshot](screenshots/step9-NACL-Outbound-configuration.png)
+![Project Screenshot](screenshots/step9-NACL-Outbound-configuration..png)
 
 **Subnet Association :-**
 
