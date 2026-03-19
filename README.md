@@ -4,7 +4,7 @@
 
 **Architecture :**
 
-![Project Screenshot](architecture)
+![Project Screenshot](Architecture.png)
 
 **Step 1 :**
 
