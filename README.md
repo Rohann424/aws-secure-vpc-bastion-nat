@@ -13,7 +13,7 @@ Created **public** and **private** subnets to separate **internet-facing** and *
 Public CIDR = 10.0.1.0/24 
 Private CIDR = 10.0.2.0/24
 
-![Project Screenshot](screenshots/step1-vpc-creation.png)
+![Project Screenshot](screenshots/step2-subnets.png)
 
 **Step 3 :**
 
