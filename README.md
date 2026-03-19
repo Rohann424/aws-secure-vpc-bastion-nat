@@ -35,6 +35,10 @@ Created a **route table** for the **public subnet** and added a route (0.0.0.0/0
 
 ![Project Screenshot](screenshots/step4-public-route-table.png)
 
+**Step 5 :**
+
+![Project Screenshot](screenshots/step3-internet-gateway.png)
+
 
 
 
