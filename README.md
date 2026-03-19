@@ -40,6 +40,12 @@ Created a **route table** for the **public subnet** and added a route (0.0.0.0/0
 ![Project Screenshot](screenshots/step5-bastion-instance.png)
 
 
+**Step 6 :**
+
+![Project Screenshot](screenshots/step5-bastion-instance.png)
+
+
+
 
 
 
