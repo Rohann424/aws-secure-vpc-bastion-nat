@@ -84,8 +84,11 @@ Additionally, configured **Network ACLs (NACLs)** to allow necessary **inbound a
 
 **Inbound configuartion : -**
 
-![Project Screenshot](screenshots/step8-private-route-table.png)
+![Project Screenshot](screenshots/step9-NACL-Inbound-configuration.png)
 
+**Onbound configuartion : -**
+
+![Project Screenshot](screenshots/step9-NACL-Inbound-configuration.png)
 
 
 
