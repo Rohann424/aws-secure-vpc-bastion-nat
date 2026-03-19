@@ -62,7 +62,7 @@ This enables instances in the **private subnet** to access the **internet** for 
 
 such as updates and package installations while remaining **inaccessible from external sources**.
 
-![Project Screenshot](screenshots/step6-private-ec2.png)
+![Project Screenshot](screenshots/step7-nat-gateway.png)
 
 
 
