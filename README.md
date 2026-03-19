@@ -19,4 +19,4 @@ Private CIDR = 10.0.2.0/24
 
 Attached an **Internet Gateway** to enable internet connectivity for the VPC.
 
-![Project Screenshot](screenshots/step1-vpc-creation.png)
+![Project Screenshot](screenshots/step3-internet-gateway.png)
