@@ -33,7 +33,7 @@ This allows resources in the public subnet to **communicate** with the **interne
 Created a **route table** for the **public subnet** and added a route (0.0.0.0/0) pointing to the **Internet Gateway** to allow outbound internet traffic. 
 **Associated** this route table with the public subnet to make it internet accessible.
 
-![Project Screenshot](screenshots/step3-internet-gateway.png)
+![Project Screenshot](screenshots/step4-public-route-table.png)
 
 
 
