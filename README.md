@@ -4,6 +4,19 @@
 
 **A secure AWS network architecture where private servers are protected and accessed only through a controlled entry point.**
 
+**Services Used :**
+
+Amazon VPC
+Subnets (Public & Private)
+EC2 (Bastion Host + Private Server)
+Internet Gateway (IGW)
+NAT Gateway
+Route Tables
+Security Groups
+Network ACL (NACL)
+
+**Real - World Application  :**
+
 **Architecture :**
 
 ![Project Screenshot](Architecture.png)
