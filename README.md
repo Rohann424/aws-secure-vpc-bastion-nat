@@ -82,6 +82,8 @@ Configured **Security Groups** to enforce strict access control:
 
 Additionally, configured **Network ACLs (NACLs)** to allow necessary **inbound and outbound traffic** such as **SSH (port 22)** and **ICMP (ping)**, ensuring proper traffic flow while maintaining security.
 
+**Inbound configuartion : -**
+
 ![Project Screenshot](screenshots/step8-private-route-table.png)
 
 
