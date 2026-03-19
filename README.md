@@ -37,6 +37,9 @@ Created a **route table** for the **public subnet** and added a route (0.0.0.0/0
 
 **Step 5 :**
 
+Launched an EC2 instance **(Bastion Host)** in the **public subnet** with an **assigned public IP** address. 
+Configured a Security Group to allow SSH (port 22) access only from my **local IP**. This instance acts as a secure **jump server** to access private resources.
+
 ![Project Screenshot](screenshots/step5-bastion-instance.png)
 
 
