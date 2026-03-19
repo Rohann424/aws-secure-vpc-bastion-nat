@@ -127,7 +127,9 @@ These tests confirm that the architecture is **secure** and **functioning** as i
 
 ![Project Screenshot](screenshots/step11-testing.png)
 
+**SUMMARY :**
 
+**This project demonstrates how to build a secure AWS network using VPC, where a Bastion Host provides controlled SSH access to private EC2 instances, and a NAT Gateway ensures secure outbound internet connectivity. This architecture is commonly used in production environments to enhance security and control access.**
 
 
 
