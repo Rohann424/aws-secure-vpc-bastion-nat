@@ -12,10 +12,12 @@ This VPC acts as the foundation for **deploying** all cloud resources securely w
 
 **Step 2 :**
 
-Created **public** and **private** subnets to separate **internet-facing** and **internal resources** .
+Created two subnets within the VPC:
 
-Public CIDR = 10.0.1.0/24 
-Private CIDR = 10.0.2.0/24
+- **Public Subnet (10.0.1.0/24)** for internet-facing resources
+- **Private Subnet (10.0.2.0/24)** for secure internal resources
+
+This separation ensures proper **network isolation** between public and private components.
 
 ![Project Screenshot](screenshots/step2-subnets.png)
 
