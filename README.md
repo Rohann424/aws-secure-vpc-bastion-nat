@@ -28,7 +28,21 @@ This allows resources in the public subnet to **communicate** with the **interne
 
 ![Project Screenshot](screenshots/step3-internet-gateway.png)
 
-**Step 5 :**
+**Step 4 :**
 
-Configured route table to allow internet traffic via Internet Gateway for public subnet.
+Created a **route table** for the **public subnet** and added a route (0.0.0.0/0) pointing to the **Internet Gateway** to allow outbound internet traffic. 
+**Associated** this route table with the public subnet to make it internet accessible.
+
+![Project Screenshot](screenshots/step3-internet-gateway.png)
+
+
+
+
+
+
+
+
+
+
+
 
