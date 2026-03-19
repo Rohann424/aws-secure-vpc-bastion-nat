@@ -42,7 +42,7 @@ Created a **route table** for the **public subnet** and added a route (0.0.0.0/0
 
 **Step 6 :**
 
-![Project Screenshot](screenshots/step5-bastion-instance.png)
+![Project Screenshot](screenshots/step6-private-ec2.png)
 
 
 
