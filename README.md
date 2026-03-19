@@ -66,6 +66,9 @@ such as updates and package installations while remaining **inaccessible from ex
 
 **Step 8 :**
 
+Created a **route table** for the **private subnet** and added a **route (0.0.0.0/0)** pointing to the **NAT Gateway**. 
+Associated this route table with the **private subnet** to allow secure outbound internet access without exposing the instances **publicly**.
+
 ![Project Screenshot](screenshots/step8-private-route-table.png)
 
 
