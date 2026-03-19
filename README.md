@@ -2,7 +2,7 @@
 
 **Project :- Secure VPC Architecture with Bastion Host and NAT Gateway**
 
-
+**Architecture :**
 
 ![Project Screenshot](screenshots/step2-subnets.png)
 
