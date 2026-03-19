@@ -92,7 +92,7 @@ Additionally, configured **Network ACLs (NACLs)** to allow necessary **inbound a
 
 **Subnet Association :-**
 
-![Project Screenshot](screenshots/step9-NACL-Outbound-configuration.png)
+![Project Screenshot](screenshots/step9-NACL-subnet-association.png)
 
 
 
