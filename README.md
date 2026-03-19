@@ -64,6 +64,13 @@ such as updates and package installations while remaining **inaccessible from ex
 
 ![Project Screenshot](screenshots/step7-nat-gateway.png)
 
+**Step 8 :**
+
+![Project Screenshot](screenshots/step7-Elastic-IP-allocated.png)
+
+
+
+
 
 
 
