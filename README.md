@@ -94,6 +94,13 @@ Additionally, configured **Network ACLs (NACLs)** to allow necessary **inbound a
 
 ![Project Screenshot](screenshots/step9-NACL-subnet-association.png)
 
+**Step 10 :**
+
+Established a secure **SSH connection** by first connecting to the **Bastion Host** using its **public IP** and then accessing the **private EC2 instance** using its **private IP**. 
+This ensures that private instances remain **inaccessible directly** from the internet.
+
+![Project Screenshot](screenshots/step9-NACL-subnet-association.png)
+
 
 
 
