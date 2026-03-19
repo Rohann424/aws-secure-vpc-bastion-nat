@@ -4,7 +4,7 @@
 
 **Architecture :**
 
-![Project Screenshot](screenshots/step2-subnets.png)
+![Project Screenshot](screenshots/architecture)
 
 **Step 1 :**
 
