@@ -50,6 +50,8 @@ Configured its Security Group to **allow SSH** access only from the **Bastion Ho
 
 ![Project Screenshot](screenshots/step6-private-ec2.png)
 
+Allocated an Elastic IP address and created a NAT Gateway in the public subnet. This enables instances in the private subnet to access the internet for outbound traffic such as updates and package installations while remaining inaccessible from external sources.
+
 
 
 
