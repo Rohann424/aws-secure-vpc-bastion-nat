@@ -14,3 +14,7 @@ Public CIDR = 10.0.1.0/24
 Private CIDR = 10.0.2.0/24
 
 ![Project Screenshot](screenshots/step1-vpc-creation.png)
+
+**Step 3 :**
+
+Attached an **Internet Gateway** to enable internet connectivity for the VPC.
